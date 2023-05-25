@@ -1,4 +1,6 @@
-# 42-Cursus
+# 42 Abu Dhabi
+## 42-Cursus
+
 ## Curriculum
 Here are the list of 42 Cursus curriculum that was completed by myself:
 
